@@ -74,14 +74,14 @@ export default function Footer(props) {
             </h5>
             <ul className='text-slate-300'>
               <FooterItem
-                href='mailto:delfiandra.yogi@gmail.com'
-                title='delfiandra.yogi@gmail.com'
+                href='mailto:masfaruddin.ibnu.mahmud@gmail.com'
+                title='masfaruddin.ibnu.mahmud@gmail.com'
               />
-              <FooterItem href='tel:+6282169791188' title='+62-821-6979-1188' />
+              <FooterItem href='tel:+6282358275567' title='+62-823-5827-5567' />
 
               <li>
                 <span className='mb-3 inline-block text-base'>
-                  Tualang, Kabupaten Siak
+                  Nongsa, Batam
                 </span>
               </li>
             </ul>
@@ -90,7 +90,7 @@ export default function Footer(props) {
 
         <div className='w-full border-t border-slate-800 pt-7 text-center text-sm font-medium text-slate-500 md:flex md:justify-between md:px-4'>
           <p className='mb-1'>
-            Copyright &#169; 2022 - 2023. All rights reserved
+            Copyright &#169; 2023 - 2024. All rights reserved
           </p>
           <p>
             {' '}
@@ -101,7 +101,7 @@ export default function Footer(props) {
               rel='noopener noreferrer'
               className='font-semibold text-primary hover:text-opacity-80'
             >
-              dosenkoding
+              Masparudin
             </a>
           </p>
         </div>
