@@ -11,7 +11,7 @@ export default function About(props) {
               Developer <span className='text-primary'>& Designer</span>
             </h4>
             <p className='paragraph max-w-xl'>
-              I am a Front-End Web Developer pursuing a master's in Informatics
+              I am an android Developer pursuing a master's in Informatics
               Engineering. I have high enthusiasm for developing websites with
               attractive and responsive designs. I have expertise in HTML, CSS,
               JavaScript, and TypeScript as well as several front-end

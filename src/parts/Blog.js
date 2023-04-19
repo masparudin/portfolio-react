@@ -59,7 +59,7 @@ export default function Blog(props) {
                       to={`/blog/${item._id}/detail`}
                       className='flex w-1/2 items-center text-base font-normal text-primary transition duration-500 ease-in hover:opacity-80'
                     >
-                      Read More <TiArrowRightThick className='ml-2' />
+                      Read Mores <TiArrowRightThick className='ml-2' />
                     </Link>
                   </div>
                 </div>
