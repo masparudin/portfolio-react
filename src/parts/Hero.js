@@ -19,7 +19,7 @@ export default function Hero() {
           <div className='column'>
             <h1 className='sub-title'>
               Hello 👋, my name is{' '}
-              <span className='title lg:text-5xl'>Yogi Delfiandra</span>
+              <span className='title lg:text-5xl'>Masparudin</span>
             </h1>
             <h2 className='job-title'>
               I'm a{' '}
