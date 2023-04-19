@@ -8,7 +8,7 @@ export default function Hero() {
     init(textRef.current, {
       backDelay: 1500,
       showCursor: true,
-      strings: ['Front-end Web Developer', 'Freelancer', 'Content Creator'],
+      strings: ['Android Developer', 'Content Writer'],
     });
   }, []);
 
@@ -35,7 +35,7 @@ export default function Hero() {
                 Contact Me
               </a>
               <a
-                href='https://drive.google.com/file/d/11glKRUUfbVfOme35RVphi45GxmgDygUj/view?usp=share_link'
+                href='https://drive.google.com/file/d/1wnaqIgSp8WnfLhQPZ9OvhVJQowzk8hzh/view?usp=sharing'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='btn btn-secondary flex w-full items-center justify-center sm:w-auto'
@@ -47,8 +47,8 @@ export default function Hero() {
           <div className='column px-4 xl:w-2/5'>
             <div className='relative mt-10 md:mt-0 lg:right-0 lg:mt-0'>
               <img
-                src='images/yogidelfiandra.png'
-                alt='yogidelfiandra'
+                src='images/masparudin.png'
+                alt='masparudin'
                 className='mx-auto max-w-full sm:w-3/4 md:mx-0 md:w-full'
               />
             </div>

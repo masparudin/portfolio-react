@@ -11,11 +11,13 @@ export default function About(props) {
               Developer <span className='text-primary'>& Designer</span>
             </h4>
             <p className='paragraph max-w-xl'>
-              I am an android Developer pursuing a master's in Informatics
-              Engineering. I have high enthusiasm for developing websites with
-              attractive and responsive designs. I have expertise in HTML, CSS,
-              JavaScript, and TypeScript as well as several front-end
-              frameworks. I also studied design techniques using Figma.
+              Hi, I'm Masparudin, an  Android developer who is always eager to learn and explore new things. With a background in Information Systems and currently i am a master's student in Computer Engineering, I possess good technical skills that are constantly evolving.
+
+              Moreover, my passion for learning and self-improvement is evidenced by the numerous certificates I have obtained from various courses and training programs. This demonstrates my readiness to tackle new challenges and develop my abilities further.
+
+              I have experience working on Android projects as a freelancer since 2018 and have collaborated with various clients to create innovative and user-friendly applications, I always strive to deliver the best results for every project I work on.
+
+              I believe that my technical skills, as well as my drive and eagerness to learn, would be valuable assets to any team I join. I am ready to continue learning and growing alongside a great team. Thank you for reading my profile!
             </p>
             <p className='paragraph pt-5 pb-3'>Connect with me:</p>
             <div className='flex items-center'>
