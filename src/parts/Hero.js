@@ -26,8 +26,8 @@ export default function Hero() {
               <span className=' text-dark dark:text-white' ref={textRef}></span>
             </h2>
             <p className='paragraph mb-10 leading-relaxed'>
-              Assist companies in developing website{' '}
-              <br className='hidden lg:block' /> applications to grow bigger.
+              Assisting companies in developing Android applications{' '}
+              <br className='hidden lg:block' />  to significantly improve business growth.
             </p>
 
             <div className='flex flex-wrap justify-center space-y-2 text-center sm:justify-start sm:space-y-0 sm:space-x-2'>

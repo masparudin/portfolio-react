@@ -74,8 +74,8 @@ export default function Footer(props) {
             </h5>
             <ul className='text-slate-300'>
               <FooterItem
-                href='mailto:masfaruddin.ibnu.mahmud@gmail.com'
-                title='masfaruddin.ibnu.mahmud@gmail.com'
+                href='mailto:masparudin@techie.com'
+                title='masparudin@techie.com'
               />
               <FooterItem href='tel:+6282358275567' title='+62-823-5827-5567' />
 
